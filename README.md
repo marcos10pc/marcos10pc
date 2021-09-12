@@ -1,6 +1,2 @@
-# Iaew man
-### kkkk
-- sla oq q eu poderia colocar ai ent fique com esse gif ou foto de um gatinho kk
-<p align="center">
-  <img width="300" height="300" src="https://cattos.fun/">
-</p>
+<h1> iaew c: </h1>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=marcos10pc&count_private=true&hide_border=true&border_radius=5&show_icons=false&include_all_commits=true&bg_color=50,477bff,e047ff&text_color=ffffff&title_color=ffffff" /> </p>
